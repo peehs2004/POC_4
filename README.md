@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/93737600-3579-4803-b736-3bf208acedde)# POC_4
+# POC_4
 # Consumo de API com fetch
 O consumo de APIs usando Fetch permite que desenvolvedores façam requisições a serviços externos de forma assíncrona. Um exemplo é a integração com a API Cataas, que oferece imagens de gatos para diferentes propósitos. Ao utilizar Fetch, você pode enviar uma requisição HTTP para a API do Cataas e receber imagens ou gifs de gatos em diversos formatos e com textos personalizados. O processo é simples: Fetch faz a requisição, e a resposta é manipulada por meio de Promises, facilitando a inclusão dessas imagens dinâmicas em aplicações web.
 
