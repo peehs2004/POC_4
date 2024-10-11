@@ -1,11 +1,11 @@
 # POC_4
-#Consumo de API com fetch
+# Consumo de API com fetch
 
 
-#Funcionamento básico da API
+# Funcionamento básico da API
 
-#Fetch
+# Fetch
 
 
-#Resultado visual
+# Resultado visual
 
